@@ -1,0 +1,10 @@
+{
+    "presets": [
+        "env",
+        "react-native"
+    ],
+    "plugins": [
+        "syntax-async-functions",
+        "transform-class-properties"
+    ]
+}
